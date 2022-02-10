@@ -1,4 +1,10 @@
+
 <?php
+
+/*
+This is a part of the software that does full-scale ERP functions such as Invoices, Bills, Returns, Taxes, and accounting.
+This trait is supposed perform dynamic actions like adding additional lines, fetching requires settings and accounts etc.
+*/
 
 namespace App\Http\Livewire\Documents\Traits;
 

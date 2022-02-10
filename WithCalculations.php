@@ -1,5 +1,11 @@
 <?php
 
+/*
+This is a part of the software that does full-scale ERP functions such as Invoices, Bills, Returns, Taxes, and accounting.
+This trait is supposed or perform line calculations and total calculations.
+Calculations depends on factors such as tax inclusive or exclusive, calculation at line level or invoice level, etc.
+*/
+
 namespace App\Http\Livewire\Documents\Traits;
 
 trait WithCalculations
